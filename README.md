@@ -1,2 +1,4 @@
 # Robotic-Block-Utilization
 Robotic Block Utilization
+There are several benefits to patients in surgeons utilizing robotic machines to perform surgeries such as smaller incisions, faster recovery, less pain, lower infection risks, and shorter hospital stay. But utilizing and maintaining a robot can be very costly such as credentialing and training for surgeons and staff, there is a higher complexity in cases, and it takes longer to set up and complete than regular cases. Therefore, generating a robotic block utilization report highlights the areas in the surgical process that can be improved.
+Robotics block utilization measures how effectively scheduled robotic OR time is used. This report displays total robotic case volume, which surgeons or groups have allocated robotic time, the percentage of robotic OR time used, and how effectively each surgeon / group uses their assigned robotic block.
